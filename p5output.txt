@@ -1,1 +1,13 @@
+Enter the number :
+5
+Enter the number :
+6
+The H.C.F (G.C.D) of 5 and 6 is 1
 
+
+
+Enter the number :
+4
+Enter the number :
+8
+The H.C.F (G.C.D) of 4 and 8 is 4
