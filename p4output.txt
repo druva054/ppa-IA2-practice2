@@ -1,1 +1,8 @@
+Enter the length of the array:
+2
+Enter all values of the array:
+3
+4
+Sum of composite number: 4
+
 
