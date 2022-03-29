@@ -1,1 +1,11 @@
+Enter the string: 
+hello
+The reverse of the string is: 
+olleh
 
+
+
+Enter the string: 
+druva
+The reverse of the string is: 
+avurd
