@@ -1,1 +1,16 @@
+enter a side length: 
+2
+enter a side length: 
+4
+enter a side length: 
+5
+The triange is scalene for lengths 2,4 and 5
 
+
+enter a side length: 
+2
+enter a side length: 
+3
+enter a side length: 
+3
+The triange is not scalene
