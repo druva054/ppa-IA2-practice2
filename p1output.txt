@@ -1,1 +1,9 @@
+Enter the Value of Base and Height
+2
+33
+The area of the Triangle is 33.000000:
 
+Enter the Value of Base and Height
+34
+45
+The area of the Triangle is 765.000000:
